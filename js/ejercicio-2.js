@@ -1,4 +1,4 @@
-import APIKEY from './config.js';
+import APIKEY from '../config.js';
 
 const API_KEY = APIKEY;
 const elementoBoton = document.getElementById('sendButton');
