@@ -1,0 +1,7 @@
+// https://www.freecodecamp.org/news/how-to-use-environment-variables-in-vanillajs/
+
+// Build command:
+echo -e "const APIKEY = 'XXXX';\n\nexport default APIKEY;" > config.js
+
+// Output Directory
+./
