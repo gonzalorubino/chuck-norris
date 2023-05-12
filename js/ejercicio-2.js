@@ -1,6 +1,6 @@
-import config from './config.js';
+import APIKEY from './config.js';
 
-const API_KEY = config;
+const API_KEY = APIKEY;
 const elementoBoton = document.getElementById('sendButton');
 const elementoPhrase = document.getElementById('phrase');
 const elementoImg = document.getElementById('image'); 
