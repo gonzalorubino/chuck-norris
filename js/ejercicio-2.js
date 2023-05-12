@@ -1,4 +1,6 @@
-const API_KEY = "L5dPmbGX3Q8bgBNwcWThdRxrnCXhpPyP";
+import config from './config.js';
+
+const API_KEY = config;
 const elementoBoton = document.getElementById('sendButton');
 const elementoPhrase = document.getElementById('phrase');
 const elementoImg = document.getElementById('image'); 
