@@ -1,2 +1,3 @@
-# breaking-bad-with-image
- Frases de Breaking Bad y Busqueda en Giphy
+# Chuck Norris
+1- Chuck Norris y Fetch encadenado
+2- Chuck Norris y Promise all
